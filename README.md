@@ -3,8 +3,9 @@
 Code to accompany bachelor thesis of this title. Parallel computing of the poison equation using the finite element method, implemented in Cuda C and C++. Results written to vtk files.
 
 Requirements: 
-Cuda C libraries
-QR solver by simonschoelly
+- C++14
+- Cuda C libraries
+- QR solver by simonschoelly
   
 <h2>Abstract</h2>
 <img width="30%" align="right" alt="Shows an a photograph of a Plasma ball." src="https://user-images.githubusercontent.com/44576195/187530672-32a3c359-6b72-4bdf-b1f3-c2db5a2888ae.jpg"><p>
